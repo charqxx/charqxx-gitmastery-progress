@@ -52,50 +52,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755530946.353685,
-    "completed_at": 1755530946.654486,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755531121.870406,
-    "completed_at": 1755531121.923308,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755531215.766067,
-    "completed_at": 1755531215.799919,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755531331.207461,
-    "completed_at": 1755531331.52591,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755531375.825798,
-    "completed_at": 1755531375.858066,
-    "comments": [
-      "Wrong 'upstream' remote URL"
-    ],
-    "status": "Incomplete"
   }
 ]
