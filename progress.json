@@ -61,5 +61,14 @@
       "Wrong 'upstream' remote URL"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755531121.870406,
+    "completed_at": 1755531121.923308,
+    "comments": [
+      "too many values to unpack (expected 2)"
+    ],
+    "status": "Error"
   }
 ]
